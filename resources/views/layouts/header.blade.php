@@ -38,7 +38,7 @@
                             <a href="/services">hizmetler</a>
                         </li>
                         <li>
-                            <a href="/works">yaptıklarımız</a>
+                            <a href="/portfolios">yaptıklarımız</a>
                         </li>
                         <li>
                             <a href="/about">hakkımızda</a>
